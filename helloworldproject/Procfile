@@ -1,1 +1,1 @@
-web: gunicorn helloworldproject.wsgipip list
+web: gunicorn helloworldproject.wsgi
